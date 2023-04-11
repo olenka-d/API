@@ -1,3 +1,4 @@
+//Створити акаунт на https://openweathermap.org/ та повторити те що у туторіалі 
 using System;
 using System.Collections.Generic;
 using System.Linq;
